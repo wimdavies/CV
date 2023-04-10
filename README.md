@@ -1,4 +1,4 @@
-## Your Name
+## Will Davies
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,13 +11,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self-employed** (April 2012 to present)  
+_Freelance musician_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience, including roles and responsibilities and results acheived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Church of St Magnus-the-Martyr, London Bridge** (February 2020 to present)  
+_Director of Music_
 
 - Any experience relevent to software development
 
@@ -45,7 +45,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2023 to June 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,16 +54,29 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The Open University (October 2019 to June 2022)
 
-- Subject, any specialisms
-- Grade
+- BA (Hons) Open, specialising in Classics and Art History
+- First Class Honours
+- (tell the people how you went back to finish your degree as a part-time distance learner, whilst working full-time and during the pandemic, because you're a self-motivated, resilient boy :D)
+
+#### Trinity Laban Conservatoire of Music and Dance (September 2012 to June 2014)
+
+- PGDip Vocal Performance
+- Distinction
+- Awards: Kathleen Creed Scholarship; Savile Club Scholarship; TCL Scholarship
+
+#### Durham Univeristy, Hatfield College (September 2007 to June 2010)
+
+- DipHE Geography, with elective modules in Geology and Music
+- Experience with qualititative and quantitative data analysis; technologies including ArcGIS, MATLAB, Stata.
+- Completed over two years of BSc Geography course before making the difficult decision to withdraw due to health reasons
 - Other cool stuff
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies and interests
 
-Any cool stuff that makes you a super part of a software development team
+Reading; cooking; walking in nature; Pilates; Historical European martial arts (HEMA) Longsword
